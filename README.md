@@ -50,7 +50,7 @@
 <details>
 <summary>🎧 Currently Listening To</summary>
 <br>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jared.waldroff&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/jared.waldroff)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jared.waldroff&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=jared.waldroff&redirect=true)
 </details>
 
 
