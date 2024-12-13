@@ -47,10 +47,8 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jared-Waldroff&theme=dracula" />
 </p>
 
-<details>
-<summary>🎧 Currently Listening To</summary>
-<br>
+<div align="center">
+  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jared.waldroff&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=jared.waldroff&redirect=true)
-</details>
 
-
+</div>
