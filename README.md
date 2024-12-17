@@ -73,7 +73,7 @@
   <a align="left" href="https://github.com/Jared-Waldroff/StudentEngagement" title="Student Engagement">
     <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=StudentEngagement&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/COSC-499-W2024/capstone-project-team-6-003" title="Capstone Project">
+  <a align="right" title="Capstone Project">
     <img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=COSC-499-W2024&repo=capstone-project-team-6-003&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
