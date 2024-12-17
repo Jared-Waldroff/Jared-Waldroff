@@ -69,32 +69,37 @@
 ---
 
 ### 🏗️ Featured Projects  
+
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/Jared-Waldroff/StudentEngagement" title="Student Engagement">
-    <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=StudentEngagement&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/Jared-Waldroff/StudentEngagement" title="Student Engagement">
+    <img width="45%" height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=StudentEngagement&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/Jared-Waldroff/capstone-project" title="Capstone Project">
+    <img width="45%" height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=capstone-project&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 <br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Jared-Waldroff/EchoesBeyondInfinity" title="Echoes Beyond Infinity">
-    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=EchoesBeyondInfinity&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/Jared-Waldroff/EchoesBeyondInfinity" title="Echoes Beyond Infinity">
+    <img width="45%" height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=EchoesBeyondInfinity&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/Jared-Waldroff/AugmentedCity" title="Augmented City">
-    <img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=AugmentedCity&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/Jared-Waldroff/AugmentedCity" title="Augmented City">
+    <img width="45%" height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=AugmentedCity&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/COSC310-Team-Passio/PassIO-COSC310-EventTicketProject" title="PassIO">
-    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=COSC310-Team-Passio&repo=PassIO-COSC310-EventTicketProject&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/COSC310-Team-Passio/PassIO-COSC310-EventTicketProject" title="PassIO">
+    <img width="45%" height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=COSC310-Team-Passio&repo=PassIO-COSC310-EventTicketProject&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/ColinLefter/Monte-Carlo-Tree-Search-Amazons" title="Monte Carlo Tree Search for Amazons">
-    <img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=ColinLefter&repo=Monte-Carlo-Tree-Search-Amazons&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/ColinLefter/Monte-Carlo-Tree-Search-Amazons" title="Monte Carlo Tree Search for Amazons">
+    <img width="45%" height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=ColinLefter&repo=Monte-Carlo-Tree-Search-Amazons&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/>
+
 
 ---
 
