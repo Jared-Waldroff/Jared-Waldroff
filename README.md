@@ -6,6 +6,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jared-Waldroff/Jared-Waldroff/main/assets/goldman_typing.svg" alt="Typing Animation with Goldman Font" />
+</p>
+
+---
+
 ### 🚀 **About Me**
 - 🎓 Based in Kelowna, BC, studying Computer Science @ UBC Okanagan  
 - 👨‍💻 Exploring Computer Vision & Deep Learning projects  
