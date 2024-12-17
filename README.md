@@ -6,12 +6,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jared-Waldroff/Jared-Waldroff/main/assets/goldman_typing.svg" alt="Typing Animation with Goldman Font" />
-</p>
-
----
-
 ### 🚀 **About Me**
 - 🎓 Based in Kelowna, BC, studying Computer Science @ UBC Okanagan  
 - 👨‍💻 Exploring Computer Vision & Deep Learning projects  
@@ -74,31 +68,49 @@
 
 ---
 
-### 🏗️ Featured Projects
-| Title | Description | Tech |
-|-------|-------------|------|
-| [Student Engagement](https://github.com/Jared-Waldroff/StudentEngagement) | A tool for analyzing classroom engagement done alongside Dr. Abdallah Mohamed & Dr. Mohamed Shehata. | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![YOLO](https://img.shields.io/badge/YOLO-black?style=flat-square&logo=python) |
-| [Capstone Project](https://github.com/COSC-499-W2024/capstone-project-team-6-003) | A project done for Kelowna Software to assist charity donations, built using Angular, ASP.NET Core, and MS SQL. | ![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp) ![Angular](https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular) |
-| [Echoes Beyond Infinity](https://github.com/Jared-Waldroff/EchoesBeyondInfinity) | A text-based space adventure game written in Kotlin. | ![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin) |
-| [Augmented City](https://github.com/Jared-Waldroff/AugmentedCity) | A tower defense game concept using AR technologies. | ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity) ![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp) |
-| [PassIO](https://github.com/COSC310-Team-Passio/PassIO-COSC310-EventTicketProject) | An event ticketing platform. | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
-| [Monte Carlo Tree Search for Amazons](https://github.com/ColinLefter/Monte-Carlo-Tree-Search-Amazons) | An AI implementation of Monte Carlo Tree Search for the game Amazons. | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) |
+### 🏗️ Featured Projects  
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Jared-Waldroff/StudentEngagement" title="Student Engagement">
+    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=StudentEngagement&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/COSC-499-W2024/capstone-project-team-6-003" title="Capstone Project">
+    <img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=COSC-499-W2024&repo=capstone-project-team-6-003&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Jared-Waldroff/EchoesBeyondInfinity" title="Echoes Beyond Infinity">
+    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=EchoesBeyondInfinity&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/Jared-Waldroff/AugmentedCity" title="Augmented City">
+    <img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=AugmentedCity&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/COSC310-Team-Passio/PassIO-COSC310-EventTicketProject" title="PassIO">
+    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=COSC310-Team-Passio&repo=PassIO-COSC310-EventTicketProject&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/ColinLefter/Monte-Carlo-Tree-Search-Amazons" title="Monte Carlo Tree Search for Amazons">
+    <img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=ColinLefter&repo=Monte-Carlo-Tree-Search-Amazons&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 
 ---
 
 ### 📊 Stats & Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jared-waldroff&theme=onestar&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jared-waldroff&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&card_width=350" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=jared-waldroff&show_icons=true&theme=react&border_color=61dafb&hide_border=true&card_width=400" alt="GitHub Stats" />
+  </a>
 </p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=jared-waldroff&label=Profile%20views&color=2e3440&style=flat" alt="Profile views" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jared-waldroff&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jared-waldroff&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jared-waldroff&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ---
 
