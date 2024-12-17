@@ -100,6 +100,9 @@
 
 ### 📊 Stats & Trophies
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jared-waldroff&theme=onestar&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies" />
+</p>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jared-waldroff&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&card_width=350" />
   </a>
@@ -107,7 +110,7 @@
     <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=jared-waldroff&show_icons=true&theme=react&border_color=61dafb&hide_border=true&card_width=400" alt="GitHub Stats" />
   </a>
 </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jared-waldroff&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jared-waldroff&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/
 
 ---
 
