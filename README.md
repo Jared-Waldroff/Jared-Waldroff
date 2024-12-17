@@ -1,18 +1,23 @@
+<!-- Header Section -->
 <p align="center">
-<a href="https://github.com/Jared">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Jared+Waldroff;Computer+Science+Student+at+UBCO+%7C+Software+Developer;Fitness+Enthusiast+%7C+Electronic+Music+Producer" alt="Typing SVG" />
-</a>
-<br/>
+  <a href="https://github.com/Jared">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=600&lines=Hey%2C+I'm+Jared!;Software+Developer+%7C+Computer+Science+Student;Music+Producer+%7C+Fitness+Enthusiast" alt="Typing SVG" />
+  </a>
+  <br />
 </p>
 
-**Hey, I’m Jared!**  
+---
+
+### 🚀 **About Me**
 - 🎓 Based in Kelowna, BC, studying Computer Science @ UBC Okanagan  
 - 👨‍💻 Exploring Computer Vision & Deep Learning projects  
-- 🎧 Electronic music producer
+- 🎧 Electronic music producer  
 - 🏋️ Weightlifting, Volleyball, CrossFit, running, golf, AR/VR, and 3D printing  
-- 🌱 Just a guy looking to help create the future
+- 🌱 Just a guy looking to help create the future  
 
-**Connect with me:**  
+---
+
+### 📫 **Connect with Me**
 <p>
 <a href="mailto:jared.waldroff@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://x.com/jaredwaldroff" target="_blank">
@@ -22,6 +27,8 @@
 <a href="https://instagram.com/jaredwaldroff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/jaredwaldroff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
+
+---
 
 ### ⚡ Skills & Technologies
 <p align="left">
@@ -56,6 +63,8 @@
   </a>
 </p>
 
+---
+
 ### 🏗️ Featured Projects
 | Title | Description | Tech |
 |-------|-------------|------|
@@ -66,12 +75,14 @@
 | [PassIO](https://github.com/COSC310-Team-Passio/PassIO-COSC310-EventTicketProject) | An event ticketing platform created for COSC 310. | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
 | [Monte Carlo Tree Search for Amazons](https://github.com/ColinLefter/Monte-Carlo-Tree-Search-Amazons) | An AI implementation of Monte Carlo Tree Search for the game Amazons. | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) |
 
+---
+
 ### 📊 Stats & Trophies
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=jared-waldroff&label=Profile%20views&color=2e3440&style=flat" alt="Profile views" />
+<img src="https://github-profile-trophy.vercel.app/?username=jared-waldroff&theme=onestar&margin-w=15&margin-h=15&column=7" alt="Trophies" />
 </p>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jared-waldroff&theme=onestar&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+<img src="https://komarev.com/ghpvc/?username=jared-waldroff&label=Profile%20views&color=2e3440&style=flat" alt="Profile views" />
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jared-waldroff&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -80,8 +91,24 @@
 <img src="https://github-readme-stats.vercel.app/api?username=jared-waldroff&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
+---
+
 <div align="center">
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jared.waldroff&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=jared.waldroff&redirect=true)
 
 </div>
+
+---
+
+<p align="center">
+    🚀 Thank you for visiting my profile! 🚀
+</p>
+<p align="center">
+    ✨ Send me an email to connect. ✨
+</p>
+<p align="center">
+    <a href="mailto:jared.waldroff@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+
