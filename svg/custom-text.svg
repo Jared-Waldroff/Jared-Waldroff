@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="100">
-  <style>
-    @import url('../css/style.css'); /* Import external CSS */
-  </style>
-
-  <text x="10" y="50" style="font-family: 'CustomFont', sans-serif; font-size: 24px; fill: #000;">
-    Custom Font Example
-  </text>
-</svg>
