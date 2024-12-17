@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/Jared">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Jared;Computer+Science+Student+%7C+Developer;Health+Sci+Enthusiast+%7C+Electronic+Music+Producer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Jared+Waldroff;Computer+Science+Student+at+UBCO+%7C+Software+Developer;Fitness+Enthusiast+%7C+Electronic+Music+Producer" alt="Typing SVG" />
 </a>
 <br/>
 </p>
@@ -8,8 +8,8 @@
 **Hey, I’m Jared!**  
 - 🎓 Based in Kelowna, BC, studying Computer Science @ UBC Okanagan  
 - 👨‍💻 Exploring Computer Vision & Deep Learning projects  
-- 🎧 Electronic music producer experimenting with deep learning models  
-- 🏋️ Into weightlifting, CrossFit, running, golf, AR/VR, and 3D printing  
+- 🎧 Electronic music producer
+- 🏋️ Weightlifting, Volleyball, CrossFit, running, golf, AR/VR, and 3D printing  
 - 🌱 Just a guy looking to help create the future
 
 **Connect with me:**  
@@ -78,9 +78,6 @@
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jared-waldroff&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jared-waldroff&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <div align="center">
