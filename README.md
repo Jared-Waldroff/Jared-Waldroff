@@ -70,14 +70,11 @@
 
 ### 🏗️ Featured Projects  
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Jared-Waldroff/StudentEngagement" title="Student Engagement">
-    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=StudentEngagement&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" title="Capstone Project">
-    <img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=COSC-499-W2024&repo=capstone-project-team-6-003&theme=react&border_color=61dafb&border_radius=10">
+  <a align="center" href="https://github.com/Jared-Waldroff/StudentEngagement" title="Student Engagement">
+    <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=StudentEngagement&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/>
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Jared-Waldroff/EchoesBeyondInfinity" title="Echoes Beyond Infinity">
