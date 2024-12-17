@@ -1,21 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="100">
   <style>
-    @font-face {
-      font-family: 'CustomFont';
-      src: url('../fonts/font.ttf') format('truetype'); /* Path to your font file */
-      font-weight: normal;
-      font-style: normal;
-    }
-
-    .custom-text {
-      font-family: 'CustomFont', sans-serif; /* Fallback to sans-serif */
-      font-size: 24px;
-      fill: #000;
-    }
+    @import url('../css/style.css'); /* Import external CSS */
   </style>
 
-  <text x="10" y="50" class="custom-text">
+  <text x="10" y="50" style="font-family: 'CustomFont', sans-serif; font-size: 24px; fill: #000;">
     Custom Font Example
   </text>
 </svg>
-
