@@ -73,11 +73,11 @@
 ### 🏗️ Featured Projects
 | Title | Description | Tech |
 |-------|-------------|------|
-| [Student Engagement](https://github.com/Jared-Waldroff/StudentEngagement) | A tool using YOLOv9 and head pose estimation for analyzing classroom engagement. | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![YOLO](https://img.shields.io/badge/YOLO-black?style=flat-square&logo=python) |
-| [Capstone Project](https://github.com/COSC-499-W2024/capstone-project-team-6-003) | A donation tool for charities built using Angular, ASP.NET Core, and MS SQL. | ![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp) ![Angular](https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular) |
+| [Student Engagement](https://github.com/Jared-Waldroff/StudentEngagement) | A tool for analyzing classroom engagement done alongside Dr. Abdallah Mohamed & Dr. Mohamed Shehata. | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![YOLO](https://img.shields.io/badge/YOLO-black?style=flat-square&logo=python) |
+| [Capstone Project](https://github.com/COSC-499-W2024/capstone-project-team-6-003) | A project done for Kelowna Software to assist charity donations, built using Angular, ASP.NET Core, and MS SQL. | ![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp) ![Angular](https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular) |
 | [Echoes Beyond Infinity](https://github.com/Jared-Waldroff/EchoesBeyondInfinity) | A text-based space adventure game written in Kotlin. | ![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin) |
 | [Augmented City](https://github.com/Jared-Waldroff/AugmentedCity) | A tower defense game concept using AR technologies. | ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity) ![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp) |
-| [PassIO](https://github.com/COSC310-Team-Passio/PassIO-COSC310-EventTicketProject) | An event ticketing platform created for COSC 310. | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
+| [PassIO](https://github.com/COSC310-Team-Passio/PassIO-COSC310-EventTicketProject) | An event ticketing platform. | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
 | [Monte Carlo Tree Search for Amazons](https://github.com/ColinLefter/Monte-Carlo-Tree-Search-Amazons) | An AI implementation of Monte Carlo Tree Search for the game Amazons. | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) |
 
 ---
