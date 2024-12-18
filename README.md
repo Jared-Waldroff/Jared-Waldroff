@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Jared-Waldroff/Jared-Waldroff/main/Assets/programmer3.png" alt="City Programming View" width="100%">
+</p>
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Goldman&weight=600&duration=3000&pause=500&center=true&multiline=true&width=600&height=80&lines=Hey%2C+I'm+Jared!;Software+Developer+%7C+Computer+Science+Student;Music+Producer+%7C+Fitness+Enthusiast" alt="Typing SVG" />
   </a>
