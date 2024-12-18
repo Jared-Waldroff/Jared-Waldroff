@@ -13,7 +13,7 @@
 - 🎓 Based in Kelowna, BC, studying Computer Science @ UBC Okanagan  
 - 👨‍💻 Exploring Computer Vision & Deep Learning projects  
 - 🎧 Electronic music producer  
-- 🏋️ Fitness: Weightlifting, CrossFit, Running, Golf
+- 🏋️ Fitness: Weightlifting, Volleyball, CrossFit, Running, Golf
 - 🌱 Exploring AR/VR, 3D Printing, and building the future
 
 ---
