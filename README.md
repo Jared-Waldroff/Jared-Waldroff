@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jared-Waldroff/Jared-Waldroff/main/Assets/programmer3.png" alt="City Programming View" width="100%">
+  <img src="https://raw.githubusercontent.com/Jared-Waldroff/Jared-Waldroff/main/Assets/programmer4.png" alt="City Programming View" width="100%">
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
