@@ -47,8 +47,6 @@
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://kotlinlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40"/></a>
   <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/></a>
   <a href="https://www.php.net" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40"/></a>
