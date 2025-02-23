@@ -80,8 +80,8 @@
         </a>
       </td>
       <td align="center" width="50%" style="border: none;">
-        <a href="https://github.com/Jared-Waldroff/capstone-project" title="Capstone Project">
-          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=capstone-project&theme=react&border_color=61dafb&border_radius=10">
+        <a href="https://github.com/callen55047/CoffeeTableDefense" title="Coffee Table Defense">
+          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=callen55047&repo=CoffeeTableDefense&theme=react&border_color=61dafb&border_radius=10">
         </a>
       </td>
     </tr>
@@ -92,8 +92,8 @@
         </a>
       </td>
       <td align="center" width="50%" style="border: none;">
-        <a href="https://github.com/Jared-Waldroff/AugmentedCity" title="Augmented City">
-          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=AugmentedCity&theme=react&border_color=61dafb&border_radius=10">
+        <a href="https://github.com/Jared-Waldroff/Jersey-Number-Recognition" title="Jersey Number Recognition">
+          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=Jersey-Number-Recognition&theme=react&border_color=61dafb&border_radius=10">
         </a>
       </td>
     </tr>
@@ -106,6 +106,18 @@
       <td align="center" width="50%" style="border: none;">
         <a href="https://github.com/ColinLefter/Monte-Carlo-Tree-Search-Amazons" title="Monte Carlo Tree Search for Amazons">
           <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=ColinLefter&repo=Monte-Carlo-Tree-Search-Amazons&theme=react&border_color=61dafb&border_radius=10">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" style="border: none;">
+        <a href="https://github.com/Jared-Waldroff/AugmentedCity" title="Augmented City">
+          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=AugmentedCity&theme=react&border_color=61dafb&border_radius=10">
+        </a>
+      </td>
+      <td align="center" width="50%" style="border: none;">
+        <a href="https://github.com/Jared-Waldroff/capstone-project" title="Capstone Project">
+          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=capstone-project&theme=react&border_color=61dafb&border_radius=10">
         </a>
       </td>
     </tr>
