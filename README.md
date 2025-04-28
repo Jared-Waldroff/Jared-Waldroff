@@ -80,15 +80,15 @@
         </a>
       </td>
       <td align="center" width="50%" style="border: none;">
-        <a href="https://github.com/callen55047/CoffeeTableDefense" title="Coffee Table Defense">
-          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=callen55047&repo=CoffeeTableDefense&theme=react&border_color=61dafb&border_radius=10">
+        <a href="https://github.com/Jared-Waldroff/Blog-Town" title="Blog Town">
+          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=Blog-Town&theme=react&border_color=61dafb&border_radius=10">
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%" style="border: none;">
-        <a href="https://github.com/Jared-Waldroff/EchoesBeyondInfinity" title="Echoes Beyond Infinity">
-          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=EchoesBeyondInfinity&theme=react&border_color=61dafb&border_radius=10">
+        <a href="https://github.com/Jared-Waldroff/CapstoneProject-CharityDonation" title="Capstone Project">
+          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=CapstoneProject-CharityDonation&theme=react&border_color=61dafb&border_radius=10">
         </a>
       </td>
       <td align="center" width="50%" style="border: none;">
@@ -99,8 +99,8 @@
     </tr>
     <tr>
       <td align="center" width="50%" style="border: none;">
-        <a href="https://github.com/COSC310-Team-Passio/PassIO-COSC310-EventTicketProject" title="PassIO">
-          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=COSC310-Team-Passio&repo=PassIO-COSC310-EventTicketProject&theme=react&border_color=61dafb&border_radius=10">
+        <a href="https://github.com/callen55047/CoffeeTableDefense" title="Coffee Table Defense">
+          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=callen55047&repo=CoffeeTableDefense&theme=react&border_color=61dafb&border_radius=10">
         </a>
       </td>
       <td align="center" width="50%" style="border: none;">
@@ -111,13 +111,13 @@
     </tr>
     <tr>
       <td align="center" width="50%" style="border: none;">
-        <a href="https://github.com/Jared-Waldroff/AugmentedCity" title="Augmented City">
-          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=AugmentedCity&theme=react&border_color=61dafb&border_radius=10">
+        <a href="https://github.com/Jared-Waldroff/EchoesBeyondInfinity" title="Echoes Beyond Infinity">
+          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=EchoesBeyondInfinity&theme=react&border_color=61dafb&border_radius=10">
         </a>
       </td>
       <td align="center" width="50%" style="border: none;">
-        <a href="https://github.com/Jared-Waldroff/capstone-project" title="Capstone Project">
-          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=capstone-project&theme=react&border_color=61dafb&border_radius=10">
+        <a href="https://github.com/COSC310-Team-Passio/PassIO-COSC310-EventTicketProject" title="PassIO">
+          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=COSC310-Team-Passio&repo=PassIO-COSC310-EventTicketProject&theme=react&border_color=61dafb&border_radius=10">
         </a>
       </td>
     </tr>
