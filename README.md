@@ -80,6 +80,18 @@
         </a>
       </td>
       <td align="center" width="50%" style="border: none;">
+        <a href="https://github.com/Jared-Waldroff/HYBRID" title="HYBRID">
+          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=HYBRID&theme=react&border_color=61dafb&border_radius=10">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" style="border: none;">
+        <a href="https://github.com/Jared-Waldroff/lessonForge" title="LessonForge">
+          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=lessonForge&theme=react&border_color=61dafb&border_radius=10">
+        </a>
+      </td>
+      <td align="center" width="50%" style="border: none;">
         <a href="https://github.com/Jared-Waldroff/Blog-Town" title="Blog Town">
           <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=Blog-Town&theme=react&border_color=61dafb&border_radius=10">
         </a>
@@ -106,18 +118,6 @@
       <td align="center" width="50%" style="border: none;">
         <a href="https://github.com/ColinLefter/Monte-Carlo-Tree-Search-Amazons" title="Monte Carlo Tree Search for Amazons">
           <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ColinLefter&repo=Monte-Carlo-Tree-Search-Amazons&theme=react&border_color=61dafb&border_radius=10">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%" style="border: none;">
-        <a href="https://github.com/Jared-Waldroff/EchoesBeyondInfinity" title="Echoes Beyond Infinity">
-          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=EchoesBeyondInfinity&theme=react&border_color=61dafb&border_radius=10">
-        </a>
-      </td>
-      <td align="center" width="50%" style="border: none;">
-        <a href="https://github.com/COSC310-Team-Passio/PassIO-COSC310-EventTicketProject" title="PassIO">
-          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=COSC310-Team-Passio&repo=PassIO-COSC310-EventTicketProject&theme=react&border_color=61dafb&border_radius=10">
         </a>
       </td>
     </tr>
