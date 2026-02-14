@@ -76,48 +76,48 @@
     <tr>
       <td align="center" width="50%" style="border: none;">
         <a href="https://github.com/Jared-Waldroff/StudentEngagement" title="Student Engagement">
-          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=StudentEngagement&theme=react&border_color=61dafb&border_radius=10">
+          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=StudentEngagement&theme=react&border_color=61dafb&border_radius=10">
         </a>
       </td>
       <td align="center" width="50%" style="border: none;">
         <a href="https://github.com/Jared-Waldroff/Blog-Town" title="Blog Town">
-          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=Blog-Town&theme=react&border_color=61dafb&border_radius=10">
+          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=Blog-Town&theme=react&border_color=61dafb&border_radius=10">
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%" style="border: none;">
         <a href="https://github.com/Jared-Waldroff/CapstoneProject-CharityDonation" title="Capstone Project">
-          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=CapstoneProject-CharityDonation&theme=react&border_color=61dafb&border_radius=10">
+          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=CapstoneProject-CharityDonation&theme=react&border_color=61dafb&border_radius=10">
         </a>
       </td>
       <td align="center" width="50%" style="border: none;">
         <a href="https://github.com/Jared-Waldroff/Jersey-Number-Recognition" title="Jersey Number Recognition">
-          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=Jersey-Number-Recognition&theme=react&border_color=61dafb&border_radius=10">
+          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=Jersey-Number-Recognition&theme=react&border_color=61dafb&border_radius=10">
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%" style="border: none;">
         <a href="https://github.com/callen55047/CoffeeTableDefense" title="Coffee Table Defense">
-          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=callen55047&repo=CoffeeTableDefense&theme=react&border_color=61dafb&border_radius=10">
+          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=callen55047&repo=CoffeeTableDefense&theme=react&border_color=61dafb&border_radius=10">
         </a>
       </td>
       <td align="center" width="50%" style="border: none;">
         <a href="https://github.com/ColinLefter/Monte-Carlo-Tree-Search-Amazons" title="Monte Carlo Tree Search for Amazons">
-          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=ColinLefter&repo=Monte-Carlo-Tree-Search-Amazons&theme=react&border_color=61dafb&border_radius=10">
+          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ColinLefter&repo=Monte-Carlo-Tree-Search-Amazons&theme=react&border_color=61dafb&border_radius=10">
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%" style="border: none;">
         <a href="https://github.com/Jared-Waldroff/EchoesBeyondInfinity" title="Echoes Beyond Infinity">
-          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jared-Waldroff&repo=EchoesBeyondInfinity&theme=react&border_color=61dafb&border_radius=10">
+          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=EchoesBeyondInfinity&theme=react&border_color=61dafb&border_radius=10">
         </a>
       </td>
       <td align="center" width="50%" style="border: none;">
         <a href="https://github.com/COSC310-Team-Passio/PassIO-COSC310-EventTicketProject" title="PassIO">
-          <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=COSC310-Team-Passio&repo=PassIO-COSC310-EventTicketProject&theme=react&border_color=61dafb&border_radius=10">
+          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=COSC310-Team-Passio&repo=PassIO-COSC310-EventTicketProject&theme=react&border_color=61dafb&border_radius=10">
         </a>
       </td>
     </tr>
@@ -128,14 +128,14 @@
 
 ### 📊 Stats & Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jared-waldroff&theme=onestar&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-rust.vercel.app/?username=jared-waldroff&theme=onestar&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies" />
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jared-waldroff&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&card_width=350" />
+    <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jared-waldroff&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&card_width=350" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=jared-waldroff&show_icons=true&theme=react&border_color=61dafb&hide_border=true&card_width=400" alt="GitHub Stats" />
+    <img align="center" width=390 src="https://github-readme-stats-fast.vercel.app/api?username=jared-waldroff&show_icons=true&theme=react&border_color=61dafb&hide_border=true&card_width=400" alt="GitHub Stats" />
   </a>
 </p>
 
