@@ -18,21 +18,19 @@
 
 ---
 
-### About Me
+<table align="center">
+<tr><td>
 
-```yaml
-name: Jared Waldroff
-location: Kelowna, BC
-education: B.Sc. Computer Science — University of British Columbia
-focus:
-  - Full-Stack Web & Mobile Development
-  - Computer Vision & Deep Learning
-  - Cloud Architecture & DevOps
-interests:
-  - Electronic Music Production (Ableton)
-  - Fitness — Weightlifting, Volleyball, CrossFit, Golf
-  - AR/VR, 3D Printing, Game Development
-```
+**`> whoami`**
+
+UBC Computer Science graduate based in Kelowna, BC. I build full-stack applications, mobile apps, and machine learning systems — always looking for the next thing to ship.
+
+**`> ls interests/`**
+
+`electronic-music/` · `weightlifting/` · `volleyball/` · `crossfit/` · `golf/` · `AR-VR/` · `3d-printing/` · `game-dev/`
+
+</td></tr>
+</table>
 
 ---
 
