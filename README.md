@@ -18,19 +18,23 @@
 
 ---
 
-<table align="center">
-<tr><td>
+<div align="center">
 
-**`> whoami`**
+UBC Computer Science graduate based in **Kelowna, BC**
+Building full-stack apps, mobile experiences, and machine learning systems
 
-UBC Computer Science graduate based in Kelowna, BC. I build full-stack applications, mobile apps, and machine learning systems — always looking for the next thing to ship.
+<br/>
 
-**`> ls interests/`**
+<img src="https://img.shields.io/badge/Electronic_Music-1DB954?style=for-the-badge&logo=ableton-live&logoColor=white"/>
+<img src="https://img.shields.io/badge/Weightlifting-E4405F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjU3IDEzSDNhMSAxIDAgMCAwIDAgMmgxNy41N2ExIDEgMCAwIDAgMC0yeiIvPjwvc3ZnPg==&logoColor=white"/>
+<img src="https://img.shields.io/badge/Volleyball-FF6F00?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrossFit-DD0031?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Golf-2E7D32?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AR/VR-0078D4?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/3D_Printing-FF8C00?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Game_Dev-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 
-`electronic-music/` · `weightlifting/` · `volleyball/` · `crossfit/` · `golf/` · `AR-VR/` · `3d-printing/` · `game-dev/`
-
-</td></tr>
-</table>
+</div>
 
 ---
 
