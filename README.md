@@ -217,6 +217,15 @@
   <table>
     <tr>
       <td align="center" width="50%">
+        <a href="https://github.com/Jared-Waldroff/EchoesBeyondInfinity">
+          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=EchoesBeyondInfinity&theme=react&border_color=61dafb&border_radius=10">
+        </a>
+        <br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Web_Audio-FF6F00?style=flat-square&logo=audiomack&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Narrative_Engine-333333?style=flat-square"/>
+      </td>
+      <td align="center" width="50%">
         <a href="https://github.com/callen55047/CoffeeTableDefense">
           <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=callen55047&repo=CoffeeTableDefense&theme=react&border_color=61dafb&border_radius=10">
         </a>
@@ -225,6 +234,8 @@
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
         <img src="https://img.shields.io/badge/AR-FF6F00?style=flat-square&logo=google&logoColor=white"/>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="50%">
         <a href="https://github.com/ColinLefter/Monte-Carlo-Tree-Search-Amazons">
           <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ColinLefter&repo=Monte-Carlo-Tree-Search-Amazons&theme=react&border_color=61dafb&border_radius=10">
@@ -233,6 +244,8 @@
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/MCTS-333333?style=flat-square"/>
         <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square"/>
+      </td>
+      <td align="center" width="50%">
       </td>
     </tr>
   </table>
