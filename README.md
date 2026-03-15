@@ -1,124 +1,241 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jared-Waldroff/Jared-Waldroff/main/Assets/programmer4.png" alt="City Programming View" width="100%">
 </p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Goldman&weight=600&duration=3000&pause=500&center=true&multiline=true&width=600&height=80&lines=Hey%2C+I'm+Jared!;Software+Developer+%7C+UBC+Computer+Science+Graduate;Music+Producer+%7C+Fitness+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Goldman&weight=600&duration=3000&pause=500&center=true&multiline=true&width=700&height=80&lines=Hey%2C+I'm+Jared!;Full-Stack+Developer+%7C+UBC+Computer+Science+Graduate;Building+Scalable+Software+from+Kelowna%2C+BC" alt="Typing SVG" />
   </a>
 </p>
 
----
-
-### 🚀 **About Me**
-- 🎓 Based in Kelowna, BC, graduated from UBC
-- 👨‍💻 Exploring Web Development, Computer Vision & Deep Learning projects  
-- 🎧 Electronic music producer
-- 🏋️ Fitness: Weightlifting, Volleyball, CrossFit, Running, Golf
-- 🌱 Exploring AR/VR, 3D Printing, and building the future
-
----
-
-### 📬 Connect with Me
 <p align="center">
-  <a href="mailto:jared.waldroff@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/jaredwaldroff" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/jaredwaldroff" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/jaredwaldroff" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/c/jaredwaldroff" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
-  </a>
+  <a href="mailto:jared.waldroff@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://linkedin.com/in/jaredwaldroff"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://x.com/jaredwaldroff"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>&nbsp;
+  <a href="https://instagram.com/jaredwaldroff"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
+  <a href="https://www.youtube.com/c/jaredwaldroff"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ---
 
-### ⚙️ Skills & Technologies
-<p align="center">
-  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40"/></a>
-  <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://angular.io/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40"/></a>
-  <a href="https://developer.android.com/" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40"/></a>
-  <a href="https://www.unrealengine.com/" target="_blank"><img src="https://skillicons.dev/icons?i=unreal" alt="Unreal" width="40" height="40"/></a>
-  <a href="https://www.blender.org/" target="_blank"><img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="40" height="40"/></a>
-  <a href="https://www.ableton.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=ableton" alt="Ableton" width="40" height="40"/></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/></a>
-  <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="40" height="40"/></a>
-</p>
+### About Me
+
+```yaml
+name: Jared Waldroff
+location: Kelowna, BC
+education: B.Sc. Computer Science — University of British Columbia
+focus:
+  - Full-Stack Web & Mobile Development
+  - Computer Vision & Deep Learning
+  - Cloud Architecture & DevOps
+interests:
+  - Electronic Music Production (Ableton)
+  - Fitness — Weightlifting, Volleyball, CrossFit, Golf
+  - AR/VR, 3D Printing, Game Development
+```
 
 ---
 
-### 🏗️ Featured Projects  
+### Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,kotlin,swift,cs,php" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs,graphql" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend & Mobile</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=angular,react,html,css" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data & AI</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,azure" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps & Tools</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Creative</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=unity,unreal,blender,ableton" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### Featured Projects
+
+<div align="center">
+
+> **Enterprise & Full-Stack Applications**
+
+</div>
 
 <div align="center" width="100%">
-  <table style="border-collapse: collapse; border: none;">
+  <table>
     <tr>
-      <td align="center" width="50%" style="border: none;">
-        <a href="https://github.com/Jared-Waldroff/StudentEngagement" title="Student Engagement">
-          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=StudentEngagement&theme=react&border_color=61dafb&border_radius=10">
+      <td align="center" width="50%">
+        <a href="https://github.com/Jared-Waldroff/engagement-tracker">
+          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=engagement-tracker&theme=react&border_color=61dafb&border_radius=10">
         </a>
+        <br/>
+        <img src="https://img.shields.io/badge/ASP.NET_Core_8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </td>
-      <td align="center" width="50%" style="border: none;">
-        <a href="https://github.com/Jared-Waldroff/HYBRID" title="HYBRID">
+      <td align="center" width="50%">
+        <a href="https://github.com/Jared-Waldroff/alert-engine">
+          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=alert-engine&theme=react&border_color=61dafb&border_radius=10">
+        </a>
+        <br/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/Jared-Waldroff/cashback-optimizer">
+          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=cashback-optimizer&theme=react&border_color=61dafb&border_radius=10">
+        </a>
+        <br/>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/Jared-Waldroff/Azure-AutoML-Sales-Forecasting">
+          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=Azure-AutoML-Sales-Forecasting&theme=react&border_color=61dafb&border_radius=10">
+        </a>
+        <br/>
+        <img src="https://img.shields.io/badge/Azure_AutoML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/DAX-525252?style=flat-square&logo=powerbi&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+
+> **Web, Mobile & AI**
+
+</div>
+
+<div align="center" width="100%">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/Jared-Waldroff/HYBRID">
           <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=HYBRID&theme=react&border_color=61dafb&border_radius=10">
         </a>
+        <br/>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white"/>
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%" style="border: none;">
-        <a href="https://github.com/Jared-Waldroff/lessonForge" title="LessonForge">
+      <td align="center" width="50%">
+        <a href="https://github.com/Jared-Waldroff/lessonForge">
           <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=lessonForge&theme=react&border_color=61dafb&border_radius=10">
         </a>
+        <br/>
+        <img src="https://img.shields.io/badge/PHP_8.2-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
       </td>
-      <td align="center" width="50%" style="border: none;">
-        <a href="https://github.com/Jared-Waldroff/Blog-Town" title="Blog Town">
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/Jared-Waldroff/Blog-Town">
           <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=Blog-Town&theme=react&border_color=61dafb&border_radius=10">
         </a>
+        <br/>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OAuth2-000000?style=flat-square&logo=auth0&logoColor=white"/>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/Jared-Waldroff/StudentEngagement">
+          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=StudentEngagement&theme=react&border_color=61dafb&border_radius=10">
+        </a>
+        <br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       </td>
     </tr>
     <tr>
-      <td align="center" width="50%" style="border: none;">
-        <a href="https://github.com/Jared-Waldroff/CapstoneProject-CharityDonation" title="Capstone Project">
+      <td align="center" width="50%">
+        <a href="https://github.com/Jared-Waldroff/CapstoneProject-CharityDonation">
           <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=CapstoneProject-CharityDonation&theme=react&border_color=61dafb&border_radius=10">
         </a>
+        <br/>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </td>
-      <td align="center" width="50%" style="border: none;">
-        <a href="https://github.com/Jared-Waldroff/Jersey-Number-Recognition" title="Jersey Number Recognition">
+      <td align="center" width="50%">
+        <a href="https://github.com/Jared-Waldroff/Jersey-Number-Recognition">
           <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=Jersey-Number-Recognition&theme=react&border_color=61dafb&border_radius=10">
         </a>
+        <br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       </td>
     </tr>
+  </table>
+</div>
+
+<div align="center">
+
+> **Games & Collaborative Work**
+
+</div>
+
+<div align="center" width="100%">
+  <table>
     <tr>
-      <td align="center" width="50%" style="border: none;">
-        <a href="https://github.com/callen55047/CoffeeTableDefense" title="Coffee Table Defense">
+      <td align="center" width="50%">
+        <a href="https://github.com/callen55047/CoffeeTableDefense">
           <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=callen55047&repo=CoffeeTableDefense&theme=react&border_color=61dafb&border_radius=10">
         </a>
+        <br/>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AR-FF6F00?style=flat-square&logo=google&logoColor=white"/>
       </td>
-      <td align="center" width="50%" style="border: none;">
-        <a href="https://github.com/ColinLefter/Monte-Carlo-Tree-Search-Amazons" title="Monte Carlo Tree Search for Amazons">
+      <td align="center" width="50%">
+        <a href="https://github.com/ColinLefter/Monte-Carlo-Tree-Search-Amazons">
           <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ColinLefter&repo=Monte-Carlo-Tree-Search-Amazons&theme=react&border_color=61dafb&border_radius=10">
         </a>
+        <br/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MCTS-333333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square"/>
       </td>
     </tr>
   </table>
@@ -126,10 +243,12 @@
 
 ---
 
-### 📊 Stats & Trophies
+### GitHub Analytics
+
 <p align="center">
-  <img src="https://github-profile-trophy-rust.vercel.app/?username=jared-waldroff&theme=onestar&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jared-waldroff&theme=react&hide_border=true&background=20232a&stroke=61dafb&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" alt="GitHub Streak" />
 </p>
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jared-waldroff&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&card_width=350" />
@@ -139,12 +258,16 @@
   </a>
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jared-waldroff&theme=nord&bg_color=20232a&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-trophy-rust.vercel.app/?username=jared-waldroff&theme=onestar&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies" />
+</p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jared-waldroff&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&point=61dafb)
 
 ---
 
 <div align="center">
-  
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jared.waldroff&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=jared.waldroff&redirect=true)
 
 </div>
@@ -152,12 +275,13 @@
 ---
 
 <p align="center">
-  🌱 Thanks for stopping by! Email me to connect.  
+  <img src="https://komarev.com/ghpvc/?username=jared-waldroff&style=for-the-badge&color=61dafb&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="mailto:jared.waldroff@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <i>Thanks for stopping by — let's build something together.</i>
 </p>
 
+<p align="center">
+  <a href="mailto:jared.waldroff@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
