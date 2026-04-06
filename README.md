@@ -212,8 +212,8 @@
     </tr>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/Jared-Waldroff/capstone-project">
-          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=capstone-project&theme=react&border_color=61dafb&border_radius=10">
+        <a href="https://github.com/Jared-Waldroff/CapstoneProject-CharityDonation">
+          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=CapstoneProject-CharityDonation&theme=react&border_color=61dafb&border_radius=10">
         </a>
         <br/>
         <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
