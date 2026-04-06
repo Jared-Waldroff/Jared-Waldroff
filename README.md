@@ -212,12 +212,13 @@
     </tr>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/Jared-Waldroff/CapstoneProject-CharityDonation">
-          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=CapstoneProject-CharityDonation&theme=react&border_color=61dafb&border_radius=10">
+        <a href="https://github.com/Jared-Waldroff/capstone-project">
+          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=capstone-project&theme=react&border_color=61dafb&border_radius=10">
         </a>
         <br/>
         <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ASP.NET_Core_8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </td>
       <td align="center" width="50%">
@@ -262,8 +263,8 @@
     </tr>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/ColinLefter/Monte-Carlo-Tree-Search-Amazons">
-          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ColinLefter&repo=Monte-Carlo-Tree-Search-Amazons&theme=react&border_color=61dafb&border_radius=10">
+        <a href="https://github.com/Jared-Waldroff/Monte-Carlo-Tree-Search-Amazons">
+          <img width="95%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jared-Waldroff&repo=Monte-Carlo-Tree-Search-Amazons&theme=react&border_color=61dafb&border_radius=10">
         </a>
         <br/>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
